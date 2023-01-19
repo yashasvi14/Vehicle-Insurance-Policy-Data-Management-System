@@ -1,1 +1,4 @@
 # Vehicle-Insurance-Policy-Data-Management-System
+The goal of the project was to implement a robust vehicle insurance database management system which can be used by customers, companies, government, and analysts to draw useful insights and make insurance claiming and tracking process hassle free.
+Customers' and the insurance company's required data fields were included in the database's architecture. After the EER and UML diagrams were modeled, the conceptual model was translated to a relational model with the required primary and foreign keys. It was investigated whether this database can be used in a NoSQL context. It was then built in MySQL and MongoDB databases.
+The developed database is linked to Python, the customers and insurance firm benefit from the display of the studied data to raise the bar for the Insurance Management System. Additionally, it enables to anticipate and efficiently manage the resources required by consumers.
